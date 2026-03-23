@@ -1,4 +1,4 @@
-<<<<<<< copilot/create-readme-for-mantisclaw
+
 <p align="center">
   <img src="https://github.com/karayakar/MantisClaw-v1/blob/main/mantis-claw-logo.png" width="400"/>
 </p>
