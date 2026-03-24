@@ -15,7 +15,7 @@
   <a href="https://mantisclaw.yapzek.ai" target="_blank">📖 MantisClaw Docs</a>
 </p>
 
----
+
 
 ## 🦗 What is blender-mcp-MantisClaw?
 
